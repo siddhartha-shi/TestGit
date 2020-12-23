@@ -1,0 +1,2 @@
+I have added new verify text. Before this I have added text to Dev. Marge into main.
+After this I will marge from master.
